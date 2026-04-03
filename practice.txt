@@ -1,2 +1,5 @@
 practice for git
 learn fundamental
+
+git add
+git commit
