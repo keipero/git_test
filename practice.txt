@@ -1,6 +1,7 @@
 practice for git
-learn fundamental
+learn fundamental command of git
 
 git add
 git commit
 git status
+git diff
