@@ -3,3 +3,4 @@ learn fundamental
 
 git add
 git commit
+git status
